@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Oct 28 14:12:07 2018
+Created on Mon Oct 28 14:12:07 2019
 
-@author: alber
+@author: Heiner
 """
 
 # Logistic Regression
@@ -74,3 +74,6 @@ visualizacion(X_train, y_train)
 
 # Test
 visualizacion(X_test, y_test)
+
+# Visualizacion con Matplotlib y analisis 
+# Pendiente EDA
